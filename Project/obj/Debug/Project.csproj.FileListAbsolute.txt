@@ -1,0 +1,24 @@
+C:\Users\ayexreeya.LAPTOP-4001CSLI\source\repos\Project\Project\bin\Debug\Project.exe.config
+C:\Users\ayexreeya.LAPTOP-4001CSLI\source\repos\Project\Project\bin\Debug\Project.exe
+C:\Users\ayexreeya.LAPTOP-4001CSLI\source\repos\Project\Project\bin\Debug\Project.pdb
+C:\Users\ayexreeya.LAPTOP-4001CSLI\source\repos\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\ayexreeya.LAPTOP-4001CSLI\source\repos\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\ayexreeya.LAPTOP-4001CSLI\source\repos\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\ayexreeya.LAPTOP-4001CSLI\source\repos\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\ayexreeya.LAPTOP-4001CSLI\source\repos\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\ayexreeya.LAPTOP-4001CSLI\source\repos\Project\Project\obj\Debug\Project.exe
+C:\Users\ayexreeya.LAPTOP-4001CSLI\source\repos\Project\Project\obj\Debug\Project.pdb
+C:\Users\ayexreeya.LAPTOP-4001CSLI\source\repos\Project\Project\obj\Debug\Project.Form2.resources
+C:\Users\ayexreeya.LAPTOP-4001CSLI\source\repos\Project\Project\obj\Debug\Project.Game.resources
+\\Mac\Home\Downloads\New folder\Project\bin\Debug\Project.exe.config
+\\Mac\Home\Downloads\New folder\Project\bin\Debug\Project.exe
+\\Mac\Home\Downloads\New folder\Project\bin\Debug\Project.pdb
+\\Mac\Home\Downloads\New folder\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\New folder\Project\obj\Debug\Project.Form1.resources
+\\Mac\Home\Downloads\New folder\Project\obj\Debug\Project.Form2.resources
+\\Mac\Home\Downloads\New folder\Project\obj\Debug\Project.Game.resources
+\\Mac\Home\Downloads\New folder\Project\obj\Debug\Project.Properties.Resources.resources
+\\Mac\Home\Downloads\New folder\Project\obj\Debug\Project.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\New folder\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\New folder\Project\obj\Debug\Project.exe
+\\Mac\Home\Downloads\New folder\Project\obj\Debug\Project.pdb
